@@ -91,7 +91,7 @@ void setup()
   delay(100);
   //amt22_1.setZeroPos();
   delay(100);
-  amt22_2.setZeroPos();
+  //amt22_2.setZeroPos();
   delay(100);
   MsTimer2::set(10, timer_warikomi); // 10ms period
   MsTimer2::start();
